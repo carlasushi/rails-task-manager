@@ -1,2 +1,0 @@
-class TaksController < ApplicationController
-end
