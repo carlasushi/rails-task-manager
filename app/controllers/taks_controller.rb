@@ -1,0 +1,2 @@
+class TaksController < ApplicationController
+end
